@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.version=0.0.1.202203081238015904695
+ro.oplus.image.my_preload.type=export_2167D_Realme
+ro.oplus.image.my_preload.date=2022-03-08 12:41:24
+ro.oplus.image.my_preload.date.utc=1646714484
+ro.oplus.preload.custom=1.0.92_IN
+ro.linkedin.channel=realme_PRELOAD

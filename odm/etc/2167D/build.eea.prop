@@ -1,0 +1,70 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RP1A.200720.011
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3197
+ro.product.name=RMX3197EEA
+ro.product.device=RMX3197
+ro.product.first_api_level=30
+ro.build.version.incremental=0mp3k6833v164P6
+ro.build.version.release=11
+ro.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.odm.build.version.incremental=0mp3k6833v164P6
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3197
+ro.product.odm.device=RMX3197
+ro.product.odm.name=RMX3197EEA
+ro.odm.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.odm.build.date.utc=1646717749
+ro.system.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.system.build.version.incremental=0mp3k6833v164P6
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX3197
+ro.product.system.device=RMX3197
+ro.product.system.name=RMX3197EEA
+ro.system.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.system.build.date.utc=1646717749
+ro.bootimage.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.bootimage.build.version.incremental=0mp3k6833v164P6
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3197
+ro.product.bootimage.device=RMX3197
+ro.product.bootimage.name=RMX3197EEA
+ro.bootimage.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.bootimage.build.date.utc=1646717749
+ro.vendor.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.vendor.build.version.incremental=0mp3k6833v164P6
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3197
+ro.product.vendor.device=RMX3197
+ro.product.vendor.name=RMX3197EEA
+ro.vendor.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.vendor.build.date.utc=1646717749
+ro.system_ext.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.system_ext.build.version.incremental=0mp3k6833v164P6
+ro.product.system_ext.brand=realme
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=RMX3197
+ro.product.system_ext.device=RMX3197
+ro.product.system_ext.name=RMX3197EEA
+ro.system_ext.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.system_ext.build.date.utc=1646717749
+ro.product.build.fingerprint=realme/RMX3197EEA/RMX3197:11/RP1A.200720.011/0mp3k6833v164P6:user/release-keys
+ro.product.build.version.incremental=0mp3k6833v164P6
+ro.product.product.brand=realme
+ro.product.product.manufacturer=realme
+ro.product.product.model=RMX3197
+ro.product.product.device=RMX3197
+ro.product.product.name=RMX3197EEA
+ro.product.build.date=Tue Mar  8 13:35:49 CST 2022
+ro.product.build.date.utc=1646717749
+
+# OPPO
